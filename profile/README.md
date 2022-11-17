@@ -2,7 +2,7 @@
 
 > **In case Elon brings it all to a standstill I want to be prepared.**
 
-This is an org that simply [forked all Twitter reoositories](https://github.com/twitter-backup/twitter-backup/blob/main/twitter-backup.sh) on November 17, 2022
+This is an org that simply [forked all Twitter repositories](https://github.com/twitter-backup/twitter-backup/blob/main/twitter-backup.sh) on November 17, 2022
 
 <!--
 
